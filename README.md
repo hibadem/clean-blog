@@ -1,5 +1,5 @@
 # Clean Blog
-Ödev-7
+## Ödev-7
 CleanBlog proje klasörünü oluşturalım.
 Package.json dosyasını oluşturalım.
 Prettier ayarlarını yapalım.(İsteğe bağlı)
